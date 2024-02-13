@@ -1,17 +1,17 @@
 # My ls 1
 
-### Descriptif
+### Description
 _______
-Programme qui permet d'afficher le contenu des répertoires
+Program that make you able to display the folder(s) content (same as the linux ls command)
 
-### ls option
+### My ls options
 _______
-Option prise en charge<br>
-`-l` = utiliser un format d’affichage long, c'est a dire les informations suivante : permission, lien, nom du groupe, nom utilisateur, taille, date (mois et jour), heure, nom</br>
-`-a` = affiche les fichiers et dossiers caché (entrées débutant par ".")</br>
-`-R` = afficher récursivement les sous-répertoires</br>
-`-t` = affiche selon la date de modification</br>
-`-r` = affiche dans l'ordre alphabétique inverser</br>
+Options available<br>
+`-l` = Use a long listing format</br>
+`-a` = Do not ignore entries starting with .</br>
+`-R` = list subdirectories recursively</br>
+`-t` = sort by time, newest first</br>
+`-r` = reverse order while sorting</br>
 
 ### Usage
 _______
